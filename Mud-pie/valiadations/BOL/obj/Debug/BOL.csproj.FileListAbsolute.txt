@@ -1,0 +1,12 @@
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\BOL.dll.config
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\BOL.dll
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\BOL.pdb
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\EntityFramework.dll
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\EntityFramework.xml
+C:\Users\ram\source\repos\valiadations\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\repos\valiadations\BOL\obj\Debug\BOL.csproj.CopyComplete
+C:\Users\ram\source\repos\valiadations\BOL\obj\Debug\BOL.dll
+C:\Users\ram\source\repos\valiadations\BOL\obj\Debug\BOL.pdb
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ram\source\repos\valiadations\BOL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ram\source\repos\valiadations\BOL\obj\Debug\BOL.csprojAssemblyReference.cache

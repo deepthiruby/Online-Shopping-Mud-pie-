@@ -1,0 +1,12 @@
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\DAL.dll
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\DAL.pdb
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\BOL.dll
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\BOL.pdb
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\BOL.dll.config
+C:\Users\ram\source\repos\valiadations\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ram\source\repos\valiadations\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ram\source\repos\valiadations\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\repos\valiadations\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ram\source\repos\valiadations\DAL\obj\Debug\DAL.dll
+C:\Users\ram\source\repos\valiadations\DAL\obj\Debug\DAL.pdb

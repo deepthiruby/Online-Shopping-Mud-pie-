@@ -1,0 +1,14 @@
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\BLL.dll
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\BLL.pdb
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\BOL.dll
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\DAL.dll
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\BOL.pdb
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\BOL.dll.config
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\DAL.pdb
+C:\Users\ram\source\repos\valiadations\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ram\source\repos\valiadations\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ram\source\repos\valiadations\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ram\source\repos\valiadations\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ram\source\repos\valiadations\BLL\obj\Debug\BLL.dll
+C:\Users\ram\source\repos\valiadations\BLL\obj\Debug\BLL.pdb
